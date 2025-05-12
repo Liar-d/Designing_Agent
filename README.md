@@ -3,3 +3,5 @@ dqn_agent.py: Implements the training and evaluation process for the DQN algorit
 environment.py: Defines a customizable grid-world environment with adjustable size and obstacles.
 
 run_experiment.py: Main script to train the DQN agent and test its performance in different environments.
+
+Presentation.pptx: PowerPoint file used for recording a video presentation explaining the DQN experiment and results.
